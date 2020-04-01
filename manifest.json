@@ -1,0 +1,18 @@
+{
+	"format_version":  2,
+	"header": {
+		"description": "A nice, basic, texture pack",
+    		"name":"Basic Textures",
+   		 "uuid": "88abe4ba-aed4-462f-a98a-d34f8cf6b114",
+   	 	"version": [1, 0, 0],
+    		"min_engine_version": [1, 13, 0]
+  	},
+  	"modules": [
+    		{
+      			"description": "A nice, basic, texture pack",
+      			"type": "resources",
+      			"uuid": "0e3eb589-00e5-4bf6-b2ff-bf5f7e14a2f1",
+      			"version": [1, 0, 0]
+    		}
+  	]
+}
